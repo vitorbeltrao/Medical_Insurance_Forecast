@@ -19,7 +19,7 @@ Taking this, there should be no necessary libraries to run the code here beyond 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using insurance dataset to predict the medical insurance. Also, my other motivation was to show you an end-to-end project.
+For this project, I was interestested in using insurance dataset to predict the medical insurance. Also, my other motivation was to show you an end-to-end Data Science project.
 
 Soon, I will be putting here a file with the deployment of this model!
 
